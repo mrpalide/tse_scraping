@@ -1,5 +1,5 @@
 ## TSE Scraping
-Let's get data from Tehran Securities Exchange. [tsetmc.com](tsetmc.com)
+Let's get data from Tehran Stock Exchange. [tsetmc.com](tsetmc.com)
 
 ### Requirements
 All required python packages are included in requirement.txt and just install them by **pip**
